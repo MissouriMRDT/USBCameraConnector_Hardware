@@ -1,0 +1,16 @@
+LTspice 24.1.9 for Windows
+Circuit: C:\GitHub\MRDT\Electrical\USBCameraConnector_Hardware\simulation\USBCameraConnector.net
+Start Time: Thu Oct 16 21:05:17 2025
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.298 seconds.
+
+Files loaded:
+C:\GitHub\MRDT\Electrical\USBCameraConnector_Hardware\simulation\USBCameraConnector.net
+C:\Users\jesse\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\jesse\AppData\Local\LTspice\lib\cmp\standard.mos
+
