@@ -1124,6 +1124,26 @@
 	)
 	(wire
 		(pts
+			(xy 199.39 83.82) (xy 208.28 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1fd2a662-4c24-4caf-b21f-e66d02b5f6c6")
+	)
+	(wire
+		(pts
+			(xy 199.39 81.28) (xy 208.28 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2882d71b-3a8b-46a0-92c9-c78feb3bf616")
+	)
+	(wire
+		(pts
 			(xy 184.15 86.36) (xy 187.96 86.36)
 		)
 		(stroke
@@ -1151,26 +1171,6 @@
 			(type default)
 		)
 		(uuid "31be563d-f129-4944-a74d-5e13fb4da5df")
-	)
-	(wire
-		(pts
-			(xy 200.66 81.28) (xy 208.28 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3bd7a960-fc08-4fcb-94ac-fa93a182cd2d")
-	)
-	(wire
-		(pts
-			(xy 200.66 83.82) (xy 208.28 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "40fcb8e0-dd42-489b-80dc-f5b2c0f15f30")
 	)
 	(wire
 		(pts
@@ -1456,7 +1456,7 @@
 	)
 	(global_label "DN"
 		(shape input)
-		(at 200.66 81.28 180)
+		(at 199.39 83.82 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1466,7 +1466,7 @@
 		)
 		(uuid "73f84c5f-7d4a-4952-a5c1-07e10be4d07d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 195.0743 81.28 0)
+			(at 193.8043 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1522,7 +1522,7 @@
 	)
 	(global_label "DP"
 		(shape input)
-		(at 200.66 83.82 180)
+		(at 199.39 81.28 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1532,7 +1532,7 @@
 		)
 		(uuid "d77185fb-7b2a-4f43-9938-1db82becd946")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 195.1348 83.82 0)
+			(at 193.8648 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2141,7 +2141,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x04_P2.00mm_Vertical"
 			(at 213.36 83.82 0)
 			(effects
 				(font
