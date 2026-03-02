@@ -515,7 +515,7 @@
       "plot": "../gerbs/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "R:/marsrover/Technical/MRDT 2026/PART_DATA/BOARDS/STEP files/USBCameraConnector.step",
       "svg": "",
       "vrml": ""
     },
